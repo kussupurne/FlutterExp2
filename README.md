@@ -1,1 +1,1 @@
-# FlutterExp2
+# exp-2-flutter
